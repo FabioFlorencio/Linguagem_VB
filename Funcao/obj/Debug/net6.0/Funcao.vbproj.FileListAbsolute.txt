@@ -1,0 +1,15 @@
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\bin\Debug\net6.0\Funcao.exe
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\bin\Debug\net6.0\Funcao.deps.json
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\bin\Debug\net6.0\Funcao.runtimeconfig.json
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\bin\Debug\net6.0\Funcao.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\bin\Debug\net6.0\Funcao.pdb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\obj\Debug\net6.0\Funcao.vbproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\obj\Debug\net6.0\Funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\obj\Debug\net6.0\Funcao.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\obj\Debug\net6.0\Funcao.AssemblyInfo.vb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\obj\Debug\net6.0\Funcao.vbproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\obj\Debug\net6.0\Funcao.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\obj\Debug\net6.0\refint\Funcao.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\obj\Debug\net6.0\Funcao.pdb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\obj\Debug\net6.0\Funcao.genruntimeconfig.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Funcao\obj\Debug\net6.0\ref\Funcao.dll
