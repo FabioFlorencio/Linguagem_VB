@@ -1,0 +1,12 @@
+C:\Users\WINDOWS\source\repos\variaveis\bin\Debug\variaveis.exe.config
+C:\Users\WINDOWS\source\repos\variaveis\bin\Debug\variaveis.exe
+C:\Users\WINDOWS\source\repos\variaveis\bin\Debug\variaveis.pdb
+C:\Users\WINDOWS\source\repos\variaveis\bin\Debug\variaveis.xml
+C:\Users\WINDOWS\source\repos\variaveis\obj\Debug\variaveis.vbproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\variaveis\obj\Debug\variaveis.vbproj.SuggestedBindingRedirects.cache
+C:\Users\WINDOWS\source\repos\variaveis\obj\Debug\variaveis.Resources.resources
+C:\Users\WINDOWS\source\repos\variaveis\obj\Debug\variaveis.vbproj.GenerateResource.cache
+C:\Users\WINDOWS\source\repos\variaveis\obj\Debug\variaveis.vbproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\variaveis\obj\Debug\variaveis.exe
+C:\Users\WINDOWS\source\repos\variaveis\obj\Debug\variaveis.xml
+C:\Users\WINDOWS\source\repos\variaveis\obj\Debug\variaveis.pdb

@@ -1,0 +1,15 @@
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\bin\Debug\net6.0\primeiro_contato.exe
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\bin\Debug\net6.0\primeiro_contato.deps.json
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\bin\Debug\net6.0\primeiro_contato.runtimeconfig.json
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\bin\Debug\net6.0\primeiro_contato.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\bin\Debug\net6.0\primeiro_contato.pdb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\obj\Debug\net6.0\primeiro_contato.vbproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\obj\Debug\net6.0\primeiro_contato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\obj\Debug\net6.0\primeiro_contato.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\obj\Debug\net6.0\primeiro_contato.AssemblyInfo.vb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\obj\Debug\net6.0\primeiro_contato.vbproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\obj\Debug\net6.0\primeiro_contato.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\obj\Debug\net6.0\refint\primeiro_contato.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\obj\Debug\net6.0\primeiro_contato.pdb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\obj\Debug\net6.0\primeiro_contato.genruntimeconfig.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\primeiro_contato\obj\Debug\net6.0\ref\primeiro_contato.dll
