@@ -1,0 +1,15 @@
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\bin\Debug\net6.0\Concatenacao_Strings.exe
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\bin\Debug\net6.0\Concatenacao_Strings.deps.json
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\bin\Debug\net6.0\Concatenacao_Strings.runtimeconfig.json
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\bin\Debug\net6.0\Concatenacao_Strings.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\bin\Debug\net6.0\Concatenacao_Strings.pdb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\obj\Debug\net6.0\Concatenacao_Strings.vbproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\obj\Debug\net6.0\Concatenacao_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\obj\Debug\net6.0\Concatenacao_Strings.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\obj\Debug\net6.0\Concatenacao_Strings.AssemblyInfo.vb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\obj\Debug\net6.0\Concatenacao_Strings.vbproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\obj\Debug\net6.0\Concatenacao_Strings.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\obj\Debug\net6.0\refint\Concatenacao_Strings.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\obj\Debug\net6.0\Concatenacao_Strings.pdb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\obj\Debug\net6.0\Concatenacao_Strings.genruntimeconfig.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Concatenacao_Strings\obj\Debug\net6.0\ref\Concatenacao_Strings.dll
