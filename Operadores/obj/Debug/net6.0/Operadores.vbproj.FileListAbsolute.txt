@@ -1,0 +1,15 @@
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\bin\Debug\net6.0\Operadores.exe
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\bin\Debug\net6.0\Operadores.deps.json
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\bin\Debug\net6.0\Operadores.runtimeconfig.json
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\bin\Debug\net6.0\Operadores.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\bin\Debug\net6.0\Operadores.pdb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\obj\Debug\net6.0\Operadores.vbproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\obj\Debug\net6.0\Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\obj\Debug\net6.0\Operadores.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\obj\Debug\net6.0\Operadores.AssemblyInfo.vb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\obj\Debug\net6.0\Operadores.vbproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\obj\Debug\net6.0\Operadores.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\obj\Debug\net6.0\refint\Operadores.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\obj\Debug\net6.0\Operadores.pdb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\obj\Debug\net6.0\Operadores.genruntimeconfig.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Operadores\obj\Debug\net6.0\ref\Operadores.dll
