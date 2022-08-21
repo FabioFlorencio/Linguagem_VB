@@ -5,7 +5,7 @@
 
 ## :mag_right:  Pré-requisitos
 
-<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: :octocat: <a href="https://git-scm.com/downloads">Git</a> a IDE <a href="[https://code.visualstudio.com/download](https://visualstudio.microsoft.com/pt-br/vs/community/)">Visual Studio.</a></p>
+<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: :octocat: <a href="https://git-scm.com/downloads">Git</a> a IDE <a href="https://visualstudio.microsoft.com/pt-br/vs/community/">Visual Studio.</a></p>
 
 
 ```bash
