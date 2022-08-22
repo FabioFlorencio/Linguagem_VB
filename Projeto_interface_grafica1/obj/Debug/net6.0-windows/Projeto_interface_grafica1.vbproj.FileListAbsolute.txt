@@ -1,0 +1,17 @@
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\bin\Debug\net6.0-windows\Projeto_interface_grafica1.exe
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\bin\Debug\net6.0-windows\Projeto_interface_grafica1.deps.json
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\bin\Debug\net6.0-windows\Projeto_interface_grafica1.runtimeconfig.json
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\bin\Debug\net6.0-windows\Projeto_interface_grafica1.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\bin\Debug\net6.0-windows\Projeto_interface_grafica1.pdb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\obj\Debug\net6.0-windows\Projeto_interface_grafica1.vbproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\obj\Debug\net6.0-windows\Projeto_interface_grafica1.Form1.resources
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\obj\Debug\net6.0-windows\Projeto_interface_grafica1.vbproj.GenerateResource.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\obj\Debug\net6.0-windows\Projeto_interface_grafica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\obj\Debug\net6.0-windows\Projeto_interface_grafica1.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\obj\Debug\net6.0-windows\Projeto_interface_grafica1.AssemblyInfo.vb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\obj\Debug\net6.0-windows\Projeto_interface_grafica1.vbproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\obj\Debug\net6.0-windows\Projeto_interface_grafica1.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\obj\Debug\net6.0-windows\refint\Projeto_interface_grafica1.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\obj\Debug\net6.0-windows\Projeto_interface_grafica1.pdb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\obj\Debug\net6.0-windows\Projeto_interface_grafica1.genruntimeconfig.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Projeto_interface_grafica1\obj\Debug\net6.0-windows\ref\Projeto_interface_grafica1.dll
