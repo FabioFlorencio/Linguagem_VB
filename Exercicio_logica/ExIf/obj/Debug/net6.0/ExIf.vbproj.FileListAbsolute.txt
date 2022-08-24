@@ -1,0 +1,15 @@
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\bin\Debug\net6.0\ExIf.exe
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\bin\Debug\net6.0\ExIf.deps.json
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\bin\Debug\net6.0\ExIf.runtimeconfig.json
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\bin\Debug\net6.0\ExIf.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\bin\Debug\net6.0\ExIf.pdb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\obj\Debug\net6.0\ExIf.vbproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\obj\Debug\net6.0\ExIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\obj\Debug\net6.0\ExIf.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\obj\Debug\net6.0\ExIf.AssemblyInfo.vb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\obj\Debug\net6.0\ExIf.vbproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\obj\Debug\net6.0\ExIf.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\obj\Debug\net6.0\refint\ExIf.dll
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\obj\Debug\net6.0\ExIf.pdb
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\obj\Debug\net6.0\ExIf.genruntimeconfig.cache
+C:\Users\WINDOWS\source\repos\Linguagem_VB\Exercicio_logica\ExIf\obj\Debug\net6.0\ref\ExIf.dll
